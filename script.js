@@ -28,6 +28,6 @@ jQuery(document).ready(function($){
 
     $('section').not(targetBox).hide(); // Hide all other boxes
 
-    $(targetBox).toggle(100); // Toggle the current state of this one
+    $(targetBox).show(100); // Toggle the current state of this one
   });
 });

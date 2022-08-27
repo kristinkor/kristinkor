@@ -352,7 +352,6 @@ html[data-theme='daytime'] .socials-container a svg{
 }
 
 
-
 .theme-toggle {
 display: flex;
 align-items: center;
@@ -387,9 +386,6 @@ align-items: center;
  .hard-skills ul li:nth-child(4n)::before {
     content: "🐻  ";
   }
-
-
-
 
   .soft-skills ul li:nth-child(4n + 1)::before {
     content: "🌿 ";

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kristinkor 🌞 
 - 👀 I’m interested in 🎵 🏂 🖼 📚 💻 🏃‍♀️ & trivia
-- 🌱 I’m currently learning myself and programming 🍀 
-- 💞️ I’m looking to collaborate on any java-related project 💗 
+- 🌱 I am currently self-learning programming 🍀 
+- 💞️ I am interested in collaborating on Java/Python-related projects and I am open to discussing potential opportunities 💗 
 - 📫 How to reach me? Just follow me on instagram krist.kor 📱 discord: kristinkor#6762
  
 
